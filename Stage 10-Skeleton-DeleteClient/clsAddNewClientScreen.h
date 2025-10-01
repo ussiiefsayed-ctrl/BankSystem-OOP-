@@ -3,6 +3,7 @@
 #include "clsScreen.h"
 #include "clsBankClient.h"
 #include "clsInputValidate.h"
+#include "clsPerson.h"
 #include <iomanip>
 using namespace std;
 
@@ -103,4 +104,5 @@ public:
 
 
 };
+
 
